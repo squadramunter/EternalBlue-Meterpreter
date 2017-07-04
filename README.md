@@ -1,5 +1,5 @@
-# EthernalBlue-Meterpreter
-Meterpreter Session using EthernalBlue
+# EternalBlue-Meterpreter
+Meterpreter Session using EternalBlue
 
 HOW TO EXPLOIT ETERNALBLUE TO GET A
 METERPRETER
